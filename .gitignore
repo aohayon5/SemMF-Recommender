@@ -1,0 +1,12 @@
+venv/
+data/raw/ml-1m/
+data/processed/
+data/embeddings/
+__pycache__/
+*.pyc
+*.pyo
+.env
+results/checkpoints/
+.claude/
+*.egg-info/
+Thumbs.db
